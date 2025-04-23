@@ -5,7 +5,7 @@
 - 💻 Front-End Stack:  
   HTML | CSS | JavaScript | Bootstrap | TailwindCSS | React.js
 - 🚀 Focused on building real-world projects to enhance my skills
-- 📫 Reach me at: <your-email@example.com> <!-- ایمیلت رو اگه خواستی اینجا بذار -->
+- 📫 Reach me at: <mahdijahed56@gmail.com> <!-- ایمیلت رو اگه خواستی اینجا بذار -->
 - 🔍 Open to remote opportunities and freelance front-end work
 - ⚡ Fun fact: I love bringing beautiful designs to life on the web!
 
