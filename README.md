@@ -21,10 +21,4 @@
 
 ---
 
-### 📊 GitHub Stats
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiJDS&show_icons=true&theme=radical)
 
----
-
-### ✨ Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MahdiJDS.MahdiJDS)
