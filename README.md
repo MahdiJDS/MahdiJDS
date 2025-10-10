@@ -66,7 +66,7 @@ Beyond that, I aim to:
 
 - **Clean & Maintainable Code:** Modular and scalable structure  
 - **Component-Driven Architecture:** Modern React patterns  
-- **State Management:** Context API, Redux, Zustand  
+- **State Management:** Context API, Redux  
 - **Performance Optimization:** Lazy loading, code-splitting, memoization  
 - **Responsive Design:** Mobile-first & pixel-perfect layouts  
 - **Accessibility:** WCAG-compliant interfaces for all users  
