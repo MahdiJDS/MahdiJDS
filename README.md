@@ -39,51 +39,45 @@ Beyond that, I plan to:
 
 ### 🧰 Tech & Tools
 <p align="center">
-  <!-- Core Front-End -->
+  <!-- Frontend Core -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-  <!-- React Ecosystem -->
+  <!-- Frontend Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
-
-  <!-- Styling & UI -->
+  <!-- Styling -->
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-EA4C89?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Toastify-FF6F61?style=for-the-badge&logo=react&logoColor=white" alt="Toast"/>
 
-  <!-- Tools & Version Control -->
+
+  <!-- State & Data -->
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yup-8A2BE2?style=for-the-badge&logoColor=white"/>
+
+   <!-- API Handling -->
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
+  <img src="https://img.shields.io/badge/Fetch_API-007ACC?style=for-the-badge&logo=fetch&logoColor=white" alt="Fetch API"/>
+
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+  <img src="https://img.shields.io/badge/VS Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-  <!-- Backend & Databases -->
+  <!-- Other Skills -->
+  
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
-
-<p align="center">
-  ⚙️ All these tools have been used in real-world, deployed projects with a strong focus on clean code, scalability, and performance optimization.
 </p>
 
 
----
-
-### 💡 My Approach
-<p align="center">
-  <img src="https://img.shields.io/badge/1-Clean%20Code-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/2-Reusable%20Components-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/3-State%20Management-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/4-Performance%20Optimized-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/5-Responsive%20Design-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/6-Testing%20Mindset-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/7-Continuous%20Learning-pink?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/8-Attention%20to%20Detail-lightblue?style=for-the-badge"/>
-</p>
 
 - **Clean & Maintainable Code:** Modular and scalable structure  
 - **Component-Driven Architecture:** Modern React patterns  
