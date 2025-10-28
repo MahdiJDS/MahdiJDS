@@ -27,28 +27,49 @@ I focus on writing **clean, maintainable code** and turning creative designs int
 ---
 
 ### 🌱 Future Vision
-I’m passionate about becoming a **Full-Stack Developer** in the near future.  
-My next major step is mastering **Next.js** to create high-performance, SEO-friendly web apps with both frontend and backend logic in one environment.  
-Beyond that, I aim to:
-- Learn **Node.js, Express, and databases (MySQL/MongoDB)** for robust backend systems  
-- Integrate frontend and backend for **end-to-end web solutions**  
-- Explore **DevOps, CI/CD pipelines, and cloud deployment** for production-grade applications  
+I’m currently learning and mastering **Next.js**, aiming to build **high-performance, SEO-friendly, and full-stack web applications** that integrate both frontend and backend logic seamlessly.  
+
+My long-term goal is to become a **Full-Stack Developer**, capable of handling end-to-end web solutions.  
+Beyond that, I plan to:  
+- Learn **Node.js, Express, and databases (MySQL/MongoDB)** for robust backend development  
+- Integrate frontend and backend for **complete web ecosystems**  
+- Explore **DevOps, CI/CD pipelines, and cloud deployment** for production-grade apps  
 
 ---
 
 ### 🧰 Tech & Tools
 <p align="center">
+  <!-- Core Front-End -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+  <!-- React Ecosystem -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
+
+  <!-- Styling & UI -->
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-EA4C89?style=for-the-badge&logo=framer&logoColor=white"/>
+
+  <!-- Tools & Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <!-- Backend & Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
+
+<p align="center">
+  ⚙️ All these tools have been used in real-world, deployed projects with a strong focus on clean code, scalability, and performance optimization.
+</p>
+
 
 ---
 
