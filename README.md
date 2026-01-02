@@ -5,7 +5,7 @@
   <a href="https://personal-portfolio-mocha-eta-77.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Personal%20Website-blue?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="mailto:mahdijahed56@gmail.com">
+  <a href="[mailto:mahdijahed56@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=mahdijahed56@email.com)">
     <img src="https://img.shields.io/badge/Email-mahdijahed56@gmail.com-red?style=for-the-badge" alt="Email"/>
   </a>
   <a href="https://t.me/Eng_IT_FrontD">
@@ -123,6 +123,6 @@ I aim to become one of the most **impactful developers** of my generation.
 <p align="center">✨ Let's Connect! ✨</p>
 <p align="center">
   <a href="https://t.me/Eng_IT_FrontD">Telegram</a> • 
-  <a href="mailto:mahdijahed56@gmail.com">Email</a> • 
+  <a href="[mailto:mahdijahed56@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=mahdijahed56@email.com)">Email</a> • 
   <a href="https://personal-portfolio-mocha-eta-77.vercel.app/">Portfolio</a>
 </p>
