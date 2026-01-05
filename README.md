@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | React & TypeScript Enthusiast | Building Modern Web Experiences</h3>
 
 <p align="center">
-  <a href="https://personal-portfolio-mocha-eta-77.vercel.app/">
+  <a href="https://mahdijds.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Personal%20Website-blue?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahdijahed56@email.com">
@@ -124,5 +124,5 @@ I aim to become one of the most **impactful developers** of my generation.
 <p align="center">
   <a href="https://t.me/Eng_IT_FrontD">Telegram</a> • 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahdijahed56@email.com">Email</a> • 
-  <a href="https://personal-portfolio-mocha-eta-77.vercel.app/">Portfolio</a>
+  <a href="https://mahdijds.vercel.app/">Portfolio</a>
 </p>
