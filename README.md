@@ -5,12 +5,19 @@
   <a href="https://mahdijds.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Personal%20Website-blue?style=for-the-badge" alt="Portfolio"/>
   </a>
+  <a href="https://www.linkedin.com/in/mahdi-jahed-jds/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Mahdi%20Jahed-0A66C2?style=for-the-badge"
+      alt="LinkedIn"
+    />
+  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahdijahed56@email.com">
     <img src="https://img.shields.io/badge/Email-mahdijahed56@gmail.com-red?style=for-the-badge" alt="Email"/>
   </a>
   <a href="https://t.me/Web_dev_JDS">
     <img src="https://img.shields.io/badge/Telegram-Mahdi%20Jahed-1CA9E9?style=for-the-badge&logo=telegram" alt="Telegram"/>
   </a>
+
 </p>
 
 ---
@@ -189,5 +196,6 @@ With curiosity, discipline, and continuous learning, I strive to build software 
 <p align="center">
   <a href="https://t.me/Web_dev_JDS">Telegram</a> • 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahdijahed56@email.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/mahdi-jahed-jds/">Linkedin</a> • 
   <a href="https://mahdijds.vercel.app/">Portfolio</a>
 </p>
