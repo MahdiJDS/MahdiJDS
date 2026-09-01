@@ -67,7 +67,7 @@ A production-ready real estate platform built with modern web technologies.
 > Building complete full-stack applications with clean architecture, type safety, and scalable design.
 
 <p align="left">
-  <a href="https://mahdijds.vercel.app/">
+  <a href="https://github.com/MahdiJDS/real-estate-platform">
     <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
