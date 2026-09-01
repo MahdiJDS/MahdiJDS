@@ -1,23 +1,19 @@
 <h1 align="center">👋 Hi, I'm Mahdi Jahed</h1>
 <h3 align="center">Front-End Developer | React, Next.js & TypeScript | Exploring Full-Stack Development | Building Modern Web Experiences</h3>
 
-<p align="center">
+<p>
   <a href="https://mahdijds.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Personal%20Website-blue?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/mahdi-jahed-jds/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Mahdi%20Jahed-0A66C2?style=for-the-badge"
-      alt="LinkedIn"
-    />
+  <a href="https://www.linkedin.com/in/mahdi-jahed-jds/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahdijahed56@email.com">
-    <img src="https://img.shields.io/badge/Email-mahdijahed56@gmail.com-red?style=for-the-badge" alt="Email"/>
+  <a href="mailto:mahdijahed56@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://t.me/Web_dev_JDS">
-    <img src="https://img.shields.io/badge/Telegram-Mahdi%20Jahed-1CA9E9?style=for-the-badge&logo=telegram" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-Message%20Me-1CA9E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-
 </p>
 
 ---
