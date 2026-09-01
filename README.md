@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mahdi Jahed</h1>
 <h3 align="center">Front-End Developer | React, Next.js & TypeScript | Exploring Full-Stack Development | Building Modern Web Experiences</h3>
 
-<p>
+<p align="center">
   <a href="https://mahdijds.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
