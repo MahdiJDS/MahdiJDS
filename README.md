@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Mahdi%20Jahed&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlignY=55&descSize=20&descColor=eeeeee"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:111827,50:312e81,75:7c3aed,100:06b6d4&height=300&section=header&text=Mahdi%20Jahed&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Building%20Modern%20Web%20Experiences%20%E2%9C%A8&descAlignY=60&descSize=22&descColor=e0e7ff"/>
+
 
 <h3 align="center">Front-End Developer | React, Next.js & TypeScript | Exploring Full-Stack Development | Building Modern Web Experiences</h3>
 
@@ -220,6 +221,5 @@ With curiosity, discipline, and continuous learning, I strive to build software 
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=150&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:2563eb,70:312e81,100:020617&height=180&section=footer"/>
 </div>
