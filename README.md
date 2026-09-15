@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm Mahdi Jahed</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Mahdi%20Jahed&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=F       ront-End%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlignY=55&descSize=20&descColor=eeeeee"/>
+</div>
 <h3 align="center">Front-End Developer | React, Next.js & TypeScript | Exploring Full-Stack Development | Building Modern Web Experiences</h3>
 
 <p align="center">
@@ -162,6 +164,7 @@ A production-ready real estate platform built with modern web technologies.
 <div align="center">
   <img src="https://raw.githubusercontent.com/MahdiJDS/MahdiJDS/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
+
 ---
 
 ### 💡 My Approach
@@ -199,10 +202,17 @@ With curiosity, discipline, and continuous learning, I strive to build software 
 
 ---
 
-<p align="center">✨ Let's Connect! ✨</p>
-<p align="center">
-  <a href="https://t.me/Web_dev_JDS">Telegram</a> • 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahdijahed56@email.com">Email</a> • 
-  <a href="https://www.linkedin.com/in/mahdi-jahed-jds/">Linkedin</a> • 
-  <a href="https://mahdijds.vercel.app/">Portfolio</a>
-</p>
+<div align="center">
+
+### ✨ Let's Connect ✨
+
+<a href="https://t.me/Web_dev_JDS">Telegram</a> •
+<a href="mailto:mahdijahed56@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/mahdi-jahed-jds/">LinkedIn</a> •
+<a href="https://mahdijds.vercel.app/">Portfolio</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=150&section=footer"/>
+
+</div>
