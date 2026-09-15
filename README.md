@@ -1,26 +1,33 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Mahdi%20Jahed&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=F       ront-End%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlignY=55&descSize=20&descColor=eeeeee"/>
-</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Mahdi%20Jahed&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlignY=55&descSize=20&descColor=eeeeee"/>
+
 <h3 align="center">Front-End Developer | React, Next.js & TypeScript | Exploring Full-Stack Development | Building Modern Web Experiences</h3>
 
 <p align="center">
-  <strong>Mahdi Jahed Dizaji · مهدی جاهد دیزجی </strong>
+  <strong>مهدی جاهد دیزجی &nbsp;·&nbsp; Mahdi Jahed Dizaji</strong>
 </p>
 
-<p align="center">
-  <a href="https://mahdijds.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mahdi-jahed-jds/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mahdijahed56@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://t.me/Web_dev_JDS">
-    <img src="https://img.shields.io/badge/Telegram-Message%20Me-1CA9E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
+<br/><br/>
+
+<a href="https://mahdijds.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://www.linkedin.com/in/mahdi-jahed-jds/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="mailto:mahdijahed56@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://t.me/Web_dev_JDS">
+  <img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MahdiJDS&style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=PROFILE+VIEWS"/>
+
+</div>
 
 ---
 
