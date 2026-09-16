@@ -9,24 +9,23 @@
   <strong>مهدی جاهد دیزجی &nbsp;·&nbsp; Mahdi Jahed Dizaji</strong>
 </p>
 
-<br/><br/>
-
-<a href="https://mahdijds.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://www.linkedin.com/in/mahdi-jahed-jds/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="mailto:mahdijahed56@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://t.me/Web_dev_JDS">
-  <img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a2e"/>
-</a>
-
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MahdiJDS&style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=PROFILE+VIEWS"/>
+<p align="center">
+  <a href="https://mahdijds.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mahdi-jahed-jds/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mahdijahed56@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/Web_dev_JDS">
+    <img src="https://img.shields.io/badge/Telegram-Message%20Me-1CA9E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
 
 </div>
 
@@ -218,8 +217,6 @@ With curiosity, discipline, and continuous learning, I strive to build software 
 <a href="mailto:mahdijahed56@gmail.com">Email</a> •
 <a href="https://www.linkedin.com/in/mahdi-jahed-jds/">LinkedIn</a> •
 <a href="https://mahdijds.vercel.app/">Portfolio</a>
-
-<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:2563eb,70:312e81,100:020617&height=180&section=footer"/>
 </div>
