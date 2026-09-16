@@ -168,9 +168,26 @@ A production-ready real estate platform built with modern web technologies.
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MahdiJDS/MahdiJDS/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
+<h2 align="center">
+  🐍 GitHub Contribution Snake
+</h2>
+
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MahdiJDS/MahdiJDS/output/github-contribution-grid-snake-dark.svg">
+
+    <source 
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MahdiJDS/MahdiJDS/output/github-contribution-grid-snake.svg">
+
+    <img 
+      width="100%"
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/MahdiJDS/MahdiJDS/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
